@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2e92e25-a5fc-4fdb-9d72-55536f1dc59d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PsAvatar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8be1e6fd-5686-480e-bc8d-a3b50c9f9388" />
+        <option name="url" value="https://github.com/PsAvatar/Real_time_locations_airplane.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XtGLWahY393IxeHP5NIxanhUiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;js.introduce.parameter.generate.optional&quot;: &quot;false&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Δημήτρης Σταματίου/OneDrive/Υπολογιστής/Real_time_locations_airplane&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Δημήτρης Σταματίου\OneDrive\Υπολογιστής\ReactMysql\frontEnd\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.login.js">
+    <configuration name="Flights.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/frontEnd/src/Flights.js" working-dir="$PROJECT_DIR$/frontEnd/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="MapComponent.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/frontEnd/src/MapComponent.jsx" working-dir="$PROJECT_DIR$/frontEnd/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/frontEnd/src/login.js" working-dir="$PROJECT_DIR$/frontEnd/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontEnd/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.login.js" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.MapComponent.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e92e25-a5fc-4fdb-9d72-55536f1dc59d" name="Changes" comment="" />
+      <created>1699440906523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699440906523</updated>
+      <workItem from="1699440907539" duration="11642000" />
+      <workItem from="1699456488807" duration="6763000" />
+      <workItem from="1699465410837" duration="13000" />
+      <workItem from="1699466108187" duration="4623000" />
+      <workItem from="1699881354764" duration="19000" />
+      <workItem from="1700064553022" duration="912000" />
+      <workItem from="1700067564573" duration="1731000" />
+      <workItem from="1700069367683" duration="1646000" />
+      <workItem from="1700560599481" duration="7558000" />
+      <workItem from="1700571066308" duration="6243000" />
+      <workItem from="1700584872804" duration="6953000" />
+      <workItem from="1700647752469" duration="17759000" />
+      <workItem from="1700836938745" duration="9637000" />
+      <workItem from="1700921841500" duration="6304000" />
+      <workItem from="1700999313328" duration="4634000" />
+      <workItem from="1701088509198" duration="2953000" />
+      <workItem from="1701100521888" duration="6973000" />
+      <workItem from="1701173567824" duration="19561000" />
+      <workItem from="1701253594707" duration="7034000" />
+      <workItem from="1701260822973" duration="8288000" />
+      <workItem from="1701272370595" duration="182000" />
+      <workItem from="1701340474132" duration="430000" />
+      <workItem from="1701455889473" duration="804000" />
+      <workItem from="1701513139804" duration="31000" />
+      <workItem from="1701513482252" duration="1568000" />
+      <workItem from="1701519526702" duration="5710000" />
+      <workItem from="1701638284007" duration="225000" />
+      <workItem from="1701879339344" duration="2290000" />
+      <workItem from="1702289039133" duration="14768000" />
+      <workItem from="1702390591283" duration="16465000" />
+      <workItem from="1702462085177" duration="3775000" />
+      <workItem from="1702543893881" duration="8088000" />
+      <workItem from="1702633237082" duration="4555000" />
+      <workItem from="1702723929910" duration="612000" />
+      <workItem from="1702733060454" duration="769000" />
+      <workItem from="1702820569241" duration="696000" />
+      <workItem from="1702822118965" duration="1181000" />
+      <workItem from="1702908769296" duration="9934000" />
+      <workItem from="1702974158498" duration="26853000" />
+      <workItem from="1703011056222" duration="476000" />
+      <workItem from="1703066177937" duration="45000" />
+      <workItem from="1703097226884" duration="610000" />
+      <workItem from="1703156689295" duration="596000" />
+      <workItem from="1703159192261" duration="131000" />
+      <workItem from="1704820014488" duration="608000" />
+      <workItem from="1704821050528" duration="297000" />
+      <workItem from="1704821392965" duration="47000" />
+      <workItem from="1704904704782" duration="984000" />
+      <workItem from="1705414768797" duration="150000" />
+      <workItem from="1705414934372" duration="127000" />
+      <workItem from="1705415107127" duration="46000" />
+      <workItem from="1705416866909" duration="101000" />
+      <workItem from="1705416981450" duration="85000" />
+      <workItem from="1705746216272" duration="56000" />
+      <workItem from="1705746287484" duration="1674000" />
+      <workItem from="1705749422117" duration="236000" />
+      <workItem from="1705750317286" duration="94000" />
+      <workItem from="1705750694495" duration="86000" />
+      <workItem from="1705752045439" duration="590000" />
+      <workItem from="1705753504729" duration="85000" />
+      <workItem from="1705753841928" duration="325000" />
+      <workItem from="1705755631764" duration="542000" />
+      <workItem from="1705756198642" duration="109000" />
+      <workItem from="1705756806423" duration="13000" />
+      <workItem from="1705927099529" duration="10000" />
+      <workItem from="1705927238709" duration="36000" />
+      <workItem from="1705927557331" duration="252000" />
+      <workItem from="1705928167350" duration="615000" />
+      <workItem from="1705930125497" duration="1421000" />
+      <workItem from="1705932224911" duration="11000" />
+      <workItem from="1705932546390" duration="14000" />
+      <workItem from="1705933164549" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
